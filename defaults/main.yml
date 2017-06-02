@@ -1,6 +1,8 @@
 ---
 dotfiles_repo: "https://github.com/stackedsax/dotfiles.git"
 dotfiles_repo_local_destination: "~/dotfiles"
+dotfiles_repo_accept_hostkey: no
+
 dotfiles_home: "~"
 dotfiles_files:
   - .bash_aliases
