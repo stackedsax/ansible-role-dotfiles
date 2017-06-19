@@ -6,10 +6,12 @@ dotfiles_repo_accept_hostkey: no
 dotfiles_home: "~"
 dotfiles_files:
   - .bash_aliases
+  - .bash_profile
   - .bashrc
+  - .gitconfig
   - .nanorc
   - .profile
-  - .bash_profile
   - .screenrc
-  - .zshrc
   - .ssh
+  - .taskrc
+  - .zshrc
